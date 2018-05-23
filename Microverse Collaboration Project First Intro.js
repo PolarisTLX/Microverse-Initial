@@ -17,6 +17,7 @@ collecting the audio from both? Collecting both screens?
 -What areas you feel less comfortable in.
 
 -GitHub / code sharing  (open to suggestion here if you know of a better/cleaner/faster way to work on the same code).
+teletype
 
 -Perhaps one just start a general project quickly, just so the other can observe their approach/method?
 -Discuss preferences for approach, IDE/editor, shortcuts etc.
